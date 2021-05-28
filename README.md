@@ -32,7 +32,7 @@ git clone https://github.com/ErwinSaputraSulistio/InCafe-BE.git
 ### Go To Folder
 Open GitBash / Terminal
 ```
-cd InCafe-BackEnd
+cd InCafe-BE
 ```
 ### Install Module
 ```
