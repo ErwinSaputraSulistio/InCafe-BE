@@ -3,8 +3,8 @@
  <img width=200px src="https://i.ibb.co/ypgfdYR/Blue-and-Yellow-Buffet-Restaurant-Logo.png" alt="logo"></a>
 </p>
 
-## About
-Backend Project InCafe Website
+## :monocle_face: About  
+  "InCafe offers you with some amazing services such as ordering foods & drinks then pay them via online, after that just wait and enjoy your food in no time without going outside! Our application is also already responsive in both Desktop and Mobile sites, giving you the best user-friendly Graphical User Interface (GUI) anywhere. When you need to grab some foods, just stay still because InCafe is ready to serve you! Built on ReactJS and ExpressJS, with MySQL as the database."
 
 ## Endpoint Details
 | Endpoint      | Method           | Info |
@@ -27,7 +27,7 @@ Backend Project InCafe Website
 ## How To Use ?
 ### Clone This Repo
 ```
-git clone https://github.com/therevolt/InCafe-BackEnd.git
+git clone https://github.com/ErwinSaputraSulistio/InCafe-BE.git
 ```
 ### Go To Folder
 Open GitBash / Terminal
@@ -57,12 +57,9 @@ node app.js
 ### InCaffe Demo
 * Netlify : [Visit Here](https://incafe.netlify.app)
 
-
-*Created in 05 - 10 April 2021* 
-- [Rama Seftiansyah](https://github.com/therevolt) Backend & Leader
-- [Wisnu Prasetio](https://github.com/prasetioad) Backend
-- [Erwin Saputra](https://github.com/ErwinSaputraSulistio) Frontend
-- [Aditya Pratama](https://github.com/heatclift77) Frontend
-
-
+## In Cafe - Teams
+[Aditya Pratama](https://github.com/heatclift77) | [Erwin Saputra](https://github.com/ErwinSaputraSulistio) | [Rama Seftiansyah](https://github.com/therevolt) | [Wisnu Prasetio](https://github.com/prasetioad)
+:-: | :-: | :-: | :-:
+<img src="https://avatars.githubusercontent.com/u/73774501?v=4" alt="Aditya Pratama" width="150"/> | <img src="https://avatars.githubusercontent.com/u/77045083?v=4" alt="Aditya Pratama" width="150"/> | <img src="https://avatars.githubusercontent.com/u/58101157?v=4" alt="Rama Seftiansyah" width="150"/> | <img src="https://avatars.githubusercontent.com/u/66661143?v=4" alt="Wisnu Prasetio" width="150"/>
+Frontend | Frontend | <b>Leader</b> & Backend | Backend
 
